@@ -1,5 +1,5 @@
 site:
-  name: Just-Pixel
+  name: Just Pixel
   site: 'https://just-pixel.vercel.app'
   base: '/'
   trailingSlash: false
